@@ -1,0 +1,8 @@
+{
+  "Filesystem": {
+    "command": "npx",
+    "args": ["-y", "@modelcontextprotocol/server-filesystem", "<allowed-directory-path>"],
+    "type": "stdio",
+    "disabled": false
+  }
+}

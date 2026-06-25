@@ -1,0 +1,8 @@
+{
+  "Chrome-DevTools": {
+    "command": "npx",
+    "args": ["-y", "chrome-devtools-mcp"],
+    "type": "stdio",
+    "disabled": false
+  }
+}

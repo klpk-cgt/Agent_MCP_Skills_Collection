@@ -1,0 +1,8 @@
+{
+  "Fetch": {
+    "command": "npx",
+    "args": ["-y", "mcp-fetch-server"],
+    "type": "stdio",
+    "disabled": false
+  }
+}
