@@ -1,0 +1,8 @@
+{
+  "Playwright": {
+    "command": "npx",
+    "args": ["-y", "@playwright/mcp"],
+    "type": "stdio",
+    "disabled": false
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Integrated Browser": {
+    "command": "npx",
+    "args": ["-y", "@anthropic/integrated-browser-mcp"],
+    "type": "stdio",
+    "disabled": false
+  }
+}

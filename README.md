@@ -43,7 +43,7 @@
 | 13 | **Playwright CLI** | - | ⭐ Microsoft 官方 | 令牌高效浏览器自动化CLI，快照+ref定位 |
 | 14 | **Vercel React Best Practices** | 1.0.0 | ⭐ Vercel 官方 | React/Next.js 70条性能规则，8大分类 |
 
-### 6 个通用 MCP 配置模板
+### 11 个通用 MCP 配置模板
 
 | MCP Server | 用途 |
 |-----------|------|
@@ -53,6 +53,11 @@
 | **Puppeteer** | 浏览器自动化 |
 | **Chrome DevTools** | Chrome 开发者工具集成 |
 | **PostgreSQL** | 数据库查询 |
+| **Context7** 🆕 | 实时获取版本特定的库文档和代码示例 |
+| **Memory** 🆕 | 知识图谱记忆系统，跨会话持久化记忆 |
+| **Playwright** 🆕 | 完整浏览器自动化 E2E 测试框架 |
+| **Supabase** 🆕 | Supabase 数据库集成，REST API 和 SQL 查询 |
+| **Integrated Browser** 🆕 | 集成浏览器自动化工具集 |
 
 > ⚠️ 所有模板中的 Token/密码均使用占位符，请替换为实际凭据
 
@@ -96,7 +101,12 @@ Agent_MCP_Skills_Collection/
     ├── fetch-mcp.json
     ├── puppeteer-mcp.json
     ├── chrome-devtools-mcp.json
-    └── postgresql-mcp.json
+    ├── postgresql-mcp.json
+    ├── context7-mcp.json          🆕
+    ├── memory-mcp.json            🆕
+    ├── playwright-mcp.json        🆕
+    ├── supabase-mcp.json          🆕
+    └── integrated-browser-mcp.json  🆕
 ```
 
 ## 📄 许可证
