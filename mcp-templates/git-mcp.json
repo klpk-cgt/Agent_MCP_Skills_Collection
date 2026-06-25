@@ -1,0 +1,9 @@
+{
+  "Git": {
+    "command": "npx",
+    "args": ["-y", "@modelcontextprotocol/server-git", "--repository", "/path/to/your/repo"],
+    "type": "stdio",
+    "disabled": false,
+    "_comment": "替换 /path/to/your/repo 为实际仓库路径"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "Shell": {
+    "command": "npx",
+    "args": ["-y", "@modelcontextprotocol/server-shell"],
+    "type": "stdio",
+    "disabled": false,
+    "_comment": "高权限 MCP，允许执行任意 shell 命令，仅在受信任环境使用"
+  }
+}

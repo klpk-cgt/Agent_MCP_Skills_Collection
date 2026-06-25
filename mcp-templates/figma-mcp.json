@@ -1,0 +1,9 @@
+{
+  "Figma": {
+    "command": "npx",
+    "args": ["-y", "ai-figma-mcp@latest"],
+    "type": "stdio",
+    "disabled": false,
+    "_comment": "需要安装 Figma 插件并获取 FIGMA_ACCESS_TOKEN"
+  }
+}

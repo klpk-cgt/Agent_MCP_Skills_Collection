@@ -1,0 +1,9 @@
+{
+  "Docker": {
+    "command": "npx",
+    "args": ["-y", "@modelcontextprotocol/server-docker"],
+    "type": "stdio",
+    "disabled": false,
+    "_comment": "需要 Docker 环境，高权限 MCP，建议仅在具体项目启用"
+  }
+}

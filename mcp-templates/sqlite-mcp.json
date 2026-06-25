@@ -1,0 +1,9 @@
+{
+  "SQLite": {
+    "command": "npx",
+    "args": ["-y", "@modelcontextprotocol/server-sqlite", "--db-path", "./data.db"],
+    "type": "stdio",
+    "disabled": false,
+    "_comment": "替换 ./data.db 为实际数据库路径"
+  }
+}

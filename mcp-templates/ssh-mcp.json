@@ -1,0 +1,9 @@
+{
+  "SSH": {
+    "command": "npx",
+    "args": ["-y", "@modelcontextprotocol/server-ssh"],
+    "type": "stdio",
+    "disabled": false,
+    "_comment": "高权限 MCP，需要 SSH_HOST, SSH_USER, SSH_PORT 环境变量，切勿全局启用"
+  }
+}

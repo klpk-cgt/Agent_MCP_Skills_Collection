@@ -1,0 +1,9 @@
+{
+  "Vercel": {
+    "command": "npx",
+    "args": ["-y", "vercel-mcp-server"],
+    "type": "stdio",
+    "disabled": false,
+    "_comment": "需要 VERCEL_API_TOKEN，从 https://vercel.com/account/tokens 获取"
+  }
+}

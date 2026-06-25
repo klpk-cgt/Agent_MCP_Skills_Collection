@@ -1,0 +1,9 @@
+{
+  "Sentry": {
+    "command": "npx",
+    "args": ["-y", "@wallacewen/sentry-mcp-server"],
+    "type": "stdio",
+    "disabled": false,
+    "_comment": "需要 SENTRY_BASE_URL, SENTRY_TOKEN, SENTRY_ORGANIZATION, SENTRY_PROJECT 环境变量"
+  }
+}
